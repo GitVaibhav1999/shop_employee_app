@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "174145434969",
+    "firebase_url": "https://rashan-app-cceea.firebaseio.com",
+    "project_id": "rashan-app-cceea",
+    "storage_bucket": "rashan-app-cceea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174145434969:android:7e9d1b5a536b0a5958c848",
+        "android_client_info": {
+          "package_name": "com.example.rashan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174145434969-nr6h5g6h0gotulv6977rngfom77t476c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuvSIi5vgzeGly7A5Vg-ygt9RJUxGsLyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174145434969-nr6h5g6h0gotulv6977rngfom77t476c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
